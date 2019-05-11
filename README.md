@@ -1,2 +1,0 @@
-# ipedrazas.github.io
-website
